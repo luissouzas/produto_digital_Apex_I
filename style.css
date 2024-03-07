@@ -1,3 +1,6 @@
+@media only screen and (max-device-width: 900px) {
+/* .menu { width:100%; } */
+}
 
 a:link{                 /*um link normal e não visitado*/
     font-size: 100;

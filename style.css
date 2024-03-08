@@ -86,7 +86,8 @@ h2{
 img{
     display: block;
     margin: auto;
-    border-radius: 5%;  
+    max-width: 100%;
+    border-radius: 5%;
     /*width: 50px;          */
     /*position: absolute;   */
     /*top: 27%;             */

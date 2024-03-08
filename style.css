@@ -2,13 +2,13 @@
 /* .menu { width:100%; } */
 }
 
-a:link{                 /*um link normal e não visitado*/
+/* a:link{                 um link normal e não visitado
     font-size: 100;
     font-family: monospace;
     color: rgb(114, 114, 114);
     background-color: #B2FF99;
     text-decoration: none;
-}
+} */
 
 a:visited{              /*um link que o usuário visitou*/
     font-size: 100;

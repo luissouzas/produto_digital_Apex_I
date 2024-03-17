@@ -96,10 +96,10 @@ img{
     /*transform: translate(-50%, -50%);*/
 }
 
-/*
+
 img:hover{
 /*uma interação na imagem quando o usuário passa o mouse sobre ela*/
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
 /* Gray Scale */

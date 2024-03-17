@@ -99,6 +99,7 @@ img{
 img:hover{
 /*exibe uma interação na imagem quando o usuário passa o mouse sobre ela*/
     transform: scale(1.2);
+    transition: .3s ease-in-out;
 }
 
 body{

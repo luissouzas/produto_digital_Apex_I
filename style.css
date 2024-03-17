@@ -87,8 +87,7 @@ img{
     display: block;
     margin: auto;
     max-width: 100%;
-    border-radius: 5%;
-    transition: transform 0.5s;    
+    border-radius: 5%;   
     /*width: 50px;          */
     /*position: absolute;   */
     /*top: 27%;             */
@@ -99,19 +98,13 @@ img{
 
 img:hover{
 /*uma interação na imagem quando o usuário passa o mouse sobre ela*/
-    transform: scale(1.2);
-}
-
-/* Gray Scale */
-.hover08 figure img {
-	-webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
-}
-.hover08 figure:hover img {
-	-webkit-filter: grayscale(0);
-	filter: grayscale(0);
+    transform: scale(1.0);
+	   -webkit-filter: grayscale(100%);
+	   filter: grayscale(100%);
+	   -webkit-transition: .3s ease-in-out;
+	   transition: .3s ease-in-out;
+    -webkit-filter: grayscale(0);
+	   filter: grayscale(0);
 }
 
 body{

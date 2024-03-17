@@ -97,6 +97,7 @@ img{
 }
 
 img:hover{
+/*uma interação na imagem quando o usuário passa o mouse sobre ela*/
     transform: scale(1.5);
 }
 

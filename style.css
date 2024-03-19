@@ -89,7 +89,8 @@ h3{
     text-align: left;
 }
 
-.imgstatic{ /*uma classe de imagens estáticas */
+.imgstatic{ 
+/* uma classe de imagens estáticas */
     display: block;
     margin: auto;
     max-width: 100%;

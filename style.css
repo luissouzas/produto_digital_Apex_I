@@ -83,6 +83,13 @@ h2{
     text-align: center;
 }
 
+h3{	
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    align-items: left;
+    text-align: left;
+}
+
 img{
     display: block;
     margin: auto;

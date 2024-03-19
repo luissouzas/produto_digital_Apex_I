@@ -46,12 +46,6 @@ p{
     text-align: center;
 }
 
-/* .terminal {
-    font-size: 100;
-    font-family: monospace;
-    color: #00FF00;
-    text-align: left;
-} */
 
 ul{
     font-size: 100;
@@ -90,7 +84,7 @@ h3{
     text-align: left;
 }
 
-.imgstatic{ 
+.imgstatic { 
 /* uma classe de imagens estáticas */
     display: block;
     margin: auto;

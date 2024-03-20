@@ -86,12 +86,13 @@ h3{
     text-align: left;
 }
 
-.imgStatic { 
+img.imgStatic:hover { 
 /* uma classe de imagens estáticas */
     display: block;
     margin: auto;
     max-width: 100%;
-    border-radius: 3%;   
+    border-radius: 3%;
+    opacity: 1;
     /*width: 50px;          */
     /*position: absolute;   */
     /*top: 27%;             */

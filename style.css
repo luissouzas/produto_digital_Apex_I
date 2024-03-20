@@ -86,7 +86,7 @@ h3{
     text-align: left;
 }
 
-.img_static { 
+.imgStatic { 
 /* uma classe de imagens estáticas */
     display: block;
     margin: auto;

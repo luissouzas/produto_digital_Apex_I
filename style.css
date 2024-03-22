@@ -107,6 +107,7 @@ div.imgStatic:hover{
     display: block;
     margin: auto;
     opacity: 0.5;
+    transition: width 0%, height 0%;
 }
 
 body{

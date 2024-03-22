@@ -106,7 +106,6 @@ img:hover{
 div.imgStatic:hover{
     display: block;
     margin: auto;
-    opacity: 0;
     max-width: 100%;
     transform: scale(1.0);
     transition: width 0s;

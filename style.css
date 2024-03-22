@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@background rgb(0, 0, 0);
+/* @background rgb(0, 0, 0); */
 @media only screen and (max-device-width: 900px) { 
 /* responsividade */
 /* .menu { width:100%; } */
@@ -110,7 +110,7 @@ div.imgStatic:hover{
     max-width: 100%;
     transform: scale(1.0);
     transition: width 0.1s;
-    transition-delay: 1s;
+    transition-delay: 0.1s;
 }
 
 body{

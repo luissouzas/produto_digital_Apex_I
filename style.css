@@ -89,7 +89,7 @@ img{
     display: block;
     margin: auto;
     max-width: 100%;
-    border-radius: 15%;   
+    border-radius: 5%;   
     /*width: 50px;          */
     /*position: absolute;   */
     /*top: 27%;             */
@@ -107,7 +107,10 @@ div.imgStatic:hover{
     display: block;
     margin: auto;
     opacity: 0.5;
-    transition: width 0%, height 0%;
+    width: 100px;
+    height: 100px;
+    transition: width 1s;
+    transition-delay: 1s;
 }
 
 body{

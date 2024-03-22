@@ -109,7 +109,7 @@ div.imgStatic:hover{
     max-width: 100%;
     height: 50%;
     width: 50%;
-    opacity: 1;
+    opacity: 0.5;
 }
 
 body{

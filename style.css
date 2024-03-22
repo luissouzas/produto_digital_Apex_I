@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@bgcolor rgb(0, 0, 0);
+@background rgb(0, 0, 0);
 @media only screen and (max-device-width: 900px) { 
 /* responsividade */
 /* .menu { width:100%; } */

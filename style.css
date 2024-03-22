@@ -106,7 +106,6 @@ img:hover{
 div.imgStatic:hover{
     display: block;
     margin: auto;
-    max-width: 100%;
     opacity: 0.5;
 }
 

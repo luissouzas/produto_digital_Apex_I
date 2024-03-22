@@ -107,8 +107,8 @@ div.imgStatic:hover{
     display: block;
     margin: auto;
     opacity: 0.5;
-    width: 100 px;
-    height: 100 px;
+    width: 10 px;
+    height: 10 px;
     transition: width 1 s;
     transition-delay: 1 s;
 }

@@ -109,10 +109,10 @@ div.imgStatic:hover{
     max-width: 100%;
 }
 
-body{
+body{ /* Cor de fonte e fundo */
     color: rgb(255, 255, 255);
-    background-color: rgb(65,105,225);
-}/* Totalmente opaco */
+    background-color: rgb(0,206,209);
+}
 
 footer{
     color: rgb(255, 255, 255);

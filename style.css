@@ -86,7 +86,7 @@ h3{
 }
 
 img{
-    border-radius: 20%;
+    border-radius: 10%;
     display: block;
     margin: auto;
     max-width: 100%;
@@ -104,7 +104,7 @@ img:hover{
 }
 
 div.imgStatic:hover{
-    border-radius: 20%; 
+    border-radius: 10%; 
     display: block;
     margin: auto;
     max-width: 100%;
@@ -112,7 +112,7 @@ div.imgStatic:hover{
 
 body{ /* Cor de fonte e fundo */
     color: rgb(255, 255, 255);
-    background-color: rgb(8,102,255);
+    background-color: rgb(10,10,10);
 }
 
 footer{
